@@ -3,3 +3,7 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+#cabecera{
+    background: yellow;
+    color: red;
+}
