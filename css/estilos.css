@@ -3,3 +3,7 @@ body{
     font-family: "Courier";
     color: deeppink;
 }
+#cabecera{
+    background: yellow;
+    color: red;
+}
